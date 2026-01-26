@@ -1,0 +1,4 @@
+https://editor.p5js.org/cxing8/sketches/9Aa_2QLMQ
+https://editor.p5js.org/cxing8/sketches/qNqy4ng7o
+This is a fun week, most importantly learned how to use array in javascript. When we deal each shape as an object, we can push as many objects as we want to the array. 
+By calling the behavior of each object through a for loop, we can create many interesting animations.
